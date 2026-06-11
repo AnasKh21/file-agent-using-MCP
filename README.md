@@ -1,4 +1,3 @@
-# Enhanced MCP Server
 
 A small project to learn how AI agents actually work — not just calling an API, but building the full loop where Claude can decide to use tools, chain actions, and interact with the user mid-task.
 
